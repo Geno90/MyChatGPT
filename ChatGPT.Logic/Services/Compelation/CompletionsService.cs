@@ -26,6 +26,7 @@ namespace ChatGPT.Logic.Services.Compelation
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _apiKey);
         }
 
+
         public async Task<string> GetCompletionAsync(ChatRequest request)
         {
             var content = CreateContent(request);

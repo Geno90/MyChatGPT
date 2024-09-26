@@ -42,6 +42,7 @@ namespace ChatGPT.API.Controllers
                           Role = "user",
                           Content = "Hej, vad roligt att vara här! Lucas verkar som en bra kille, ska vi anställa honom?"
                       },
+
                 }
             };
 

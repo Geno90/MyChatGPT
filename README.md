@@ -14,6 +14,9 @@ Generera inlägg automatiskt på Diné-appen, vilket skapar en mer levande och e
 Utveckla nya appar som kan dra nytta av GPT-teknologin på kreativa sätt.
 Det här är bara början, och jag ser fram emot att se vart projektet tar mig!
 
+För att testa applikationen, debugga och skicka ett testmeddelande i swager.
+Du behöver inte fylla i något i Swagger. Det ligger ett demomeddelande i controllern om man vill ändra.
+
 Teknologier och verktyg
 Backend: .NET 6
 API: ChatGPT-integration för datahantering
